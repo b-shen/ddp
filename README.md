@@ -1,8 +1,5 @@
 Peer-graded Assignment: Course Project: Shiny Application and Reproducible Pitch
-DeadlineJan 15, 11:59 PM EST
-Ready for the assignment?
-You will find instructions below to submit.
-InstructionsMy submissionDiscussions
+
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
 Your Shiny Application
